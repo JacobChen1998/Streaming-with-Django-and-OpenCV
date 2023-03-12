@@ -24,7 +24,7 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
     pip install -r requirements.txt
 ```
 
-#### 4. Replace playing source in cfg.py
+#### 4. Replace playing source in [cfg.py](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV/blob/main/cfg.py)
 ```
    stream_link =  <your source>
 ```
@@ -37,4 +37,5 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 ### 6. Go to 127.0.0.1:8000 with your browser than enjoy!
 
 
-   
+## :warning: Notice :warning:
+- Python > 3.6
