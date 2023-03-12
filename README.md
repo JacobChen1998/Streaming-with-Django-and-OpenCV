@@ -54,4 +54,5 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 
 ## :warning: Notice :warning:
 The local video can not play is normal, you must make your video openable with browser detectly first.
+
 This [http.server](https://docs.python.org/3/library/http.server.html) document can help you.
