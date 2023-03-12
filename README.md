@@ -37,5 +37,20 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 ### 6. Go to 127.0.0.1:8000 with your browser than enjoy!
 
 
+## Support source type:
+
+###### :white_check_mark: webcam (stream_link=0)
+
+###### :white_check_mark: RTSP source (stream_link="rtsp://.........")
+
+###### :white_check_mark: .mp4
+
+###### :white_check_mark: .3gp
+
+###### :white_check_mark: .avi
+
+###### :white_check_mark: .MOV
+
+
 ## :warning: Notice :warning:
-- Python > 3.6
+The local video can not play is normal, you must make your video openable with browser detectly first.
