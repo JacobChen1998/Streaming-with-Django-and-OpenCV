@@ -9,19 +9,26 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 
 ## Quick start with anaconda 
 
+#### 0. Clone and into project 
+```
+    cd Streaming-with-Django-and-OpenCV/
+```
+
+
+
 #### 1. Environment create
 ```
-    conda create --name django-stream python=3.8
+$    conda create --name django-stream python=3.8
 ```
 
 #### 2. Environment activate
 ```
-    conda activate django-stream
+$    conda activate django-stream
 ```
 
 #### 3. Packages install
 ```
-    pip install -r requirements.txt
+$    pip install -r requirements.txt
 ```
 
 #### 4. Replace playing source in [cfg.py](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV/blob/main/cfg.py)
@@ -31,7 +38,7 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 
 #### 5. Run the server
 ```
-   python manage.py runserver
+$   python manage.py runserver
 ```
 
 ### 6. Go to 127.0.0.1:8000 with your browser than enjoy!
