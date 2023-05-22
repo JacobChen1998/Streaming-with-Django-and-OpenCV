@@ -11,7 +11,8 @@ Here we use two packages : [Django](https://www.djangoproject.com/) and [OpenCV]
 
 #### 0. Clone and into project 
 ```
-    cd Streaming-with-Django-and-OpenCV/
+$ git clone https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV.git
+ $   cd Streaming-with-Django-and-OpenCV/
 ```
 
 
